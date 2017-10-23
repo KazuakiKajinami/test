@@ -1,0 +1,150 @@
+/usrhome/ISM17/c501737032/.xprofile: 3 行: [: `]'がありません
+GLib-GIO-Message: Using the 'memory' GSettings backend.  Your settings will not be saved or shared with other applications.
+gnome-keyring-daemon: insufficient process capabilities, unsecure memory might get used
+gnome-keyring-daemon: insufficient process capabilities, unsecure memory might get used
+gnome-keyring-daemon: insufficient process capabilities, unsecure memory might get used
+gnome-keyring-daemon: insufficient process capabilities, unsecure memory might get used
+
+(gsettings-data-convert:2788): GLib-GIO-WARNING **: g_settings_set_value: value for key 'visual-bell-type' in schema 'org.gnome.desktop.wm.preferences' is outside of valid range
+
+(gsettings-data-convert:2788): GLib-GIO-WARNING **: g_settings_set_value: value for key 'visual-bell-type' in schema 'org.gnome.desktop.wm.preferences' is outside of valid range
+
+(gsettings-data-convert:2788): GLib-GIO-CRITICAL **: g_settings_set_value: key 'switch-to-workspace-left' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:2788): GLib-GIO-CRITICAL **: g_settings_set_value: key 'switch-to-workspace-right' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:2788): GLib-GIO-CRITICAL **: g_settings_set_value: key 'switch-to-workspace-up' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:2788): GLib-GIO-CRITICAL **: g_settings_set_value: key 'switch-to-workspace-down' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:2788): GLib-GIO-CRITICAL **: g_settings_set_value: key 'show-desktop' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:2788): GLib-GIO-CRITICAL **: g_settings_set_value: key 'panel-main-menu' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:2788): GLib-GIO-CRITICAL **: g_settings_set_value: key 'panel-run-dialog' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:2788): GLib-GIO-CRITICAL **: g_settings_set_value: key 'toggle-maximized' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:2788): GLib-GIO-CRITICAL **: g_settings_set_value: key 'maximize' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:2788): GLib-GIO-CRITICAL **: g_settings_set_value: key 'unmaximize' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:2788): GLib-GIO-CRITICAL **: g_settings_set_value: key 'toggle-shaded' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:2788): GLib-GIO-CRITICAL **: g_settings_set_value: key 'minimize' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:2788): GLib-GIO-CRITICAL **: g_settings_set_value: key 'move-to-workspace-left' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:2788): GLib-GIO-CRITICAL **: g_settings_set_value: key 'move-to-workspace-right' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:2788): GLib-GIO-CRITICAL **: g_settings_set_value: key 'move-to-workspace-up' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:2788): GLib-GIO-CRITICAL **: g_settings_set_value: key 'move-to-workspace-down' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gnome-settings-daemon:2794): power-plugin-WARNING **: gnome-session is not available
+
+(gnome-settings-daemon:2794): power-plugin-WARNING **: gnome-session is not available
+
+(gnome-settings-daemon:2794): power-plugin-WARNING **: gnome-session is not available
+
+(gnome-settings-daemon:2794): power-plugin-WARNING **: gnome-session is not available
+
+(gnome-settings-daemon:2794): power-plugin-WARNING **: gnome-session is not available
+
+(gnome-settings-daemon:2794): power-plugin-WARNING **: gnome-session is not available
+
+(gnome-settings-daemon:2794): power-plugin-WARNING **: gnome-session is not available
+Backend     : gconf
+Integration : true
+Profile     : unity
+Adding plugins
+Initializing core options...done
+Initializing composite options...done
+Initializing opengl options...done
+Initializing decor options...done
+Initializing vpswitch options...done
+Initializing snap options...done
+Initializing mousepoll options...done
+Initializing resize options...done
+Initializing place options...done
+Initializing move options...done
+Initializing wall options...done
+Initializing grid options...done
+I/O warning : failed to load external entity "/usrhome/ISM17/c501737032/.compiz/session/10b07fe7d9c95eff97150872028464858400000026970037"
+Initializing session options...done
+Initializing gnomecompat options...done
+Initializing animation options...** Message: applet now removed from the notification area
+done
+Initializing fade options...done
+
+** (gnome-settings-daemon:2794): CRITICAL **: setup_bg: assertion `manager->priv->bg == NULL' failed
+Initializing unitymtgrabhandles options...done
+Initializing workarounds options...done
+Initializing scale options...done
+compiz (expo) - Warn: failed to bind image to texture
+Initializing expo options...done
+Initializing ezoom options...done
+** Message: using fallback from indicator to GtkStatusIcon
+
+(compiz:2817): GConf-CRITICAL **: gconf_client_add_dir: assertion `gconf_valid_key (dirname, NULL)' failed
+No LSB modules are available.
+Initializing unityshell options...done
+Setting Update "main_menu_key"
+Setting Update "run_key"
+** Message: moving back from GtkStatusIcon to indicator
+
+** (gnome-screensaver:3724): WARNING **: このセッションで既にスクリーンセーバーが実行中です
+
+(gnome-settings-daemon:2794): GLib-CRITICAL **: g_variant_get_int32: assertion `g_variant_is_of_type (value, G_VARIANT_TYPE_INT32)' failed
+
+(firefox:4430): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(firefox:4430): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(evince:8967): EggSMClient-WARNING **: Failed to connect to the session manager: None of the authentication protocols specified are supported
+
+
+(evince:8967): Gtk-WARNING **: Attempting to read the recently used resources file at `/usrhome/ISM17/c501737032/.local/share/recently-used.xbel', but the parser failed: '/usrhome/ISM17/c501737032/.local/share/recently-used.xbel' を開けません: 許可がありません.
+
+(evince:8967): Gtk-WARNING **: Attempting to store changes into `/usrhome/ISM17/c501737032/.local/share/recently-used.xbel', but failed: '/usrhome/ISM17/c501737032/.local/share/recently-used.xbel.6WP37Y' というファイルを生成できませんでした: 許可がありません
+
+(evince:8967): Gtk-WARNING **: Attempting to set the permissions of `/usrhome/ISM17/c501737032/.local/share/recently-used.xbel', but failed: 許可がありません
+
+(evince:8967): Gtk-WARNING **: Attempting to store changes into `/usrhome/ISM17/c501737032/.local/share/recently-used.xbel', but failed: '/usrhome/ISM17/c501737032/.local/share/recently-used.xbel.HZLJ8Y' というファイルを生成できませんでした: 許可がありません
+
+(evince:8967): Gtk-WARNING **: Attempting to set the permissions of `/usrhome/ISM17/c501737032/.local/share/recently-used.xbel', but failed: 許可がありません
+
+(evince:9809): EggSMClient-WARNING **: Failed to connect to the session manager: None of the authentication protocols specified are supported
+
+
+(evince:9809): Gtk-WARNING **: Attempting to read the recently used resources file at `/usrhome/ISM17/c501737032/.local/share/recently-used.xbel', but the parser failed: '/usrhome/ISM17/c501737032/.local/share/recently-used.xbel' を開けません: 許可がありません.
+
+(evince:9809): Gtk-WARNING **: Attempting to store changes into `/usrhome/ISM17/c501737032/.local/share/recently-used.xbel', but failed: '/usrhome/ISM17/c501737032/.local/share/recently-used.xbel.00V37Y' というファイルを生成できませんでした: 許可がありません
+
+(evince:9809): Gtk-WARNING **: Attempting to set the permissions of `/usrhome/ISM17/c501737032/.local/share/recently-used.xbel', but failed: 許可がありません
+
+(evince:9809): Gtk-WARNING **: Attempting to read the recently used resources file at `/usrhome/ISM17/c501737032/.local/share/recently-used.xbel', but the parser failed: '/usrhome/ISM17/c501737032/.local/share/recently-used.xbel' を開けません: 許可がありません.
+
+(evince:9809): Gtk-WARNING **: Attempting to store changes into `/usrhome/ISM17/c501737032/.local/share/recently-used.xbel', but failed: '/usrhome/ISM17/c501737032/.local/share/recently-used.xbel.WJCB8Y' というファイルを生成できませんでした: 許可がありません
+
+(evince:9809): Gtk-WARNING **: Attempting to set the permissions of `/usrhome/ISM17/c501737032/.local/share/recently-used.xbel', but failed: 許可がありません
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' がエラー 255 を返しました: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error そのようなファイルやディレクトリはありません
+Please ask your system administrator to enable user sharing.
+
+
+(evince:20683): EggSMClient-WARNING **: Failed to connect to the session manager: None of the authentication protocols specified are supported
+
+
+(evince:20683): Gtk-WARNING **: Attempting to read the recently used resources file at `/usrhome/ISM17/c501737032/.local/share/recently-used.xbel', but the parser failed: '/usrhome/ISM17/c501737032/.local/share/recently-used.xbel' を開けません: 許可がありません.
+
+(evince:20683): Gtk-WARNING **: Attempting to store changes into `/usrhome/ISM17/c501737032/.local/share/recently-used.xbel', but failed: '/usrhome/ISM17/c501737032/.local/share/recently-used.xbel.B8037Y' というファイルを生成できませんでした: 許可がありません
+
+(evince:20683): Gtk-WARNING **: Attempting to set the permissions of `/usrhome/ISM17/c501737032/.local/share/recently-used.xbel', but failed: 許可がありません
+
+(evince:20683): Gtk-WARNING **: Attempting to read the recently used resources file at `/usrhome/ISM17/c501737032/.local/share/recently-used.xbel', but the parser failed: '/usrhome/ISM17/c501737032/.local/share/recently-used.xbel' を開けません: 許可がありません.
+
+(evince:20683): Gtk-WARNING **: Attempting to store changes into `/usrhome/ISM17/c501737032/.local/share/recently-used.xbel', but failed: '/usrhome/ISM17/c501737032/.local/share/recently-used.xbel.CA267Y' というファイルを生成できませんでした: 許可がありません
+
+(evince:20683): Gtk-WARNING **: Attempting to set the permissions of `/usrhome/ISM17/c501737032/.local/share/recently-used.xbel', but failed: 許可がありません
+
+(firefox:4430): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed

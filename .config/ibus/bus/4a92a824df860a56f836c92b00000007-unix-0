@@ -1,0 +1,3 @@
+# This file is created by ibus-daemon, please do not modify it
+IBUS_ADDRESS=unix:abstract=/tmp/dbus-lyVRIGA5,guid=6e35b80b12f6ea2014bd3a7759ed3ea6
+IBUS_DAEMON_PID=3389
